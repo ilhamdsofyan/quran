@@ -7,7 +7,7 @@
 				<span class="middle"></span>
 				<span class="bottom"></span>
 			</div>
-			<a href="index.html" class="navbar-brand"> 
+			<a href="<?php echo ROOT_URL ?>" class="navbar-brand"> 
 				<b>Qur'an Digital</b>
 			</a>
 

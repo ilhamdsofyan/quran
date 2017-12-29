@@ -1,0 +1,1 @@
+<?php isset($content_js) ? $this->load->view($content_js) : ''; ?>

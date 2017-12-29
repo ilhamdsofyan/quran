@@ -9,5 +9,5 @@
 
 	<!-- custom -->
 	<script src="<?php echo ROOT_URL ?>/assets/js/main.js"></script>
-	<?php $this->load->view('tempalte/js_plugins') ?>
+	<?php $this->load->view('template/js_plugins') ?>
 <!-- end: Javascript -->
