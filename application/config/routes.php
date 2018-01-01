@@ -49,7 +49,27 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['/'] = 'Dashboard';
+
+/**
+ * ROUTE OF DASHBOARD
+ */
+$route['beranda'] = 'Dashboard';
+
+/**
+ * ROUTE OF SURAH
+ */
+$route['baca/dari-surah'] = 'Surah';
+$route['baca/dari-surah/(:any)'] = 'Surah/readSurah/$1';
+
+/**
+ * ROUTE OF SURAH
+ */
+$route['baca/dari-juz'] = 'Juz';
+
+/**
+ * ROUTE OF SURAH
+ */
+$route['baca/dari-nuzul'] = 'Nuzul';
 
 $route['default_controller'] = 'Dashboard';
 $route['404_override'] = '';
