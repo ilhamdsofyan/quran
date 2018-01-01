@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<meta name="description" content="My Quran is digital quran, it's just a test for my practice">
+<meta name="description" content="<?php echo APP_NAME ?> is just a test for my practice">
 <meta name="author" content="Ilham Dwi Sofyan">
 <meta name="keyword" content="Ilham, Dwi, Sofyan, ilhamdsofyan, ilhamdsofyan@gmail.con, linkedin.com/in/ilhamdsofyan">
 <meta name="viewport" content="width=device-width, initial-scale=1">

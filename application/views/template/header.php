@@ -18,7 +18,7 @@
 						<div class="form-group form-animate-text">
 							<input type="text" class="form-text" required>
 							<span class="bar"></span>
-							<label class="label-search">Ketik disini untuk <b>Pencarian</b> </label>
+							<label class="label-search">Ketik disini untuk <b>Cari Surah</b> </label>
 						</div>
 					</div>
 				</li>
